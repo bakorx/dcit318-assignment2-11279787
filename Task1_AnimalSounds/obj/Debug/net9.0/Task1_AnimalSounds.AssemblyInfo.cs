@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task1_AnimalSounds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca5f04ab3a6be2d139c691bdbfbebe75c602f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7925fd912616757fb27ed06474ea4ca3c7bd732")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task1_AnimalSounds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task1_AnimalSounds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

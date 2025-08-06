@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\bin\Debug\net9.0\Task1_AnimalSounds.exe
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\bin\Debug\net9.0\Task1_AnimalSounds.deps.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\bin\Debug\net9.0\Task1_AnimalSounds.runtimeconfig.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\bin\Debug\net9.0\Task1_AnimalSounds.dll
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\bin\Debug\net9.0\Task1_AnimalSounds.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.AssemblyInfo.cs
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.sourcelink.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.dll
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\refint\Task1_AnimalSounds.dll
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\Task1_AnimalSounds.genruntimeconfig.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task1_AnimalSounds\obj\Debug\net9.0\ref\Task1_AnimalSounds.dll
