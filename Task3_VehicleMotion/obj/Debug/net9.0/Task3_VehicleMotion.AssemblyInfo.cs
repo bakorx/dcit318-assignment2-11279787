@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task3_VehicleMotion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f5e87b05fe760a5a7aa1a20cb0d5322422da25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de28391b755e8d70d1b985a8deb1fb81996f7c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task3_VehicleMotion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task3_VehicleMotion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
