@@ -1,0 +1,15 @@
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\bin\Debug\net9.0\Task2_ShapeCalculator.exe
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\bin\Debug\net9.0\Task2_ShapeCalculator.deps.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\bin\Debug\net9.0\Task2_ShapeCalculator.runtimeconfig.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\bin\Debug\net9.0\Task2_ShapeCalculator.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\bin\Debug\net9.0\Task2_ShapeCalculator.pdb
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.AssemblyInfo.cs
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.sourcelink.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\refint\Task2_ShapeCalculator.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\Task2_ShapeCalculator.genruntimeconfig.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment2-11279787\Task2_ShapeCalculator\obj\Debug\net9.0\ref\Task2_ShapeCalculator.dll
